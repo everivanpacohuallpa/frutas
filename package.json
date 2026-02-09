@@ -1,0 +1,20 @@
+{
+  "name": "frutas",
+  "version": "1.0.0",
+  "description": "zzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everivanpacohuallpa/frutas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/everivanpacohuallpa/frutas/issues"
+  },
+  "homepage": "https://github.com/everivanpacohuallpa/frutas#readme"
+}
